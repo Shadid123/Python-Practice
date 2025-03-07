@@ -21,6 +21,6 @@ def div(*numbers):
 
 add(10,20,30)
 sub(10,20)
-mul(10,20)
+mul(10,30)
 div(30,2,2)
 
